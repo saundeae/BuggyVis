@@ -1,0 +1,23 @@
+﻿group_taxon,bug_group,a,b,source
+Araneae,Spiders,0.05,2.74,
+Auchenorrhyncha,"Cicadas, Leafhoppers, and Treehoppers",0.012,3.13,
+Coleoptera,Beetles,0.039,2.492,
+Diptera,Flies,0.041,2.213,
+Formicidae,Ants,0.009,2.919,
+Heteroptera,True Bugs,0.008,3.075,
+Hymenoptera,"Bees, Wasps, and Sawflies",0.014,2.696,
+Lepidoptera,Moths and Butterflies,0.012,2.69,Sabo 2002
+Opiliones,Harvestman,0.162,2.17,
+Orthoptera,"Grasshoppers, Crickets, and Katydids",0.023,2.27,
+Sternorrhyncha,Aphids and Allies,0.0175,2.629,
+Insecta,Other,0.027,2.494,
+Odonata,Damselflies and Dragonflies,0.14,2.27,Sabo 2002
+Trichoptera,Caddisflies,0.01,2.9,Sabo 2002
+Mantodea,Mantises,0.0017,2.953,Hodar 1996
+Blattodea,Cockroaches,0.0313,2.358,Gruner 2003
+Thysanoptera,Thrips,0.0071,2.537,Hodar 1996
+Psocoptera,Bark/Booklice,0.0136,3.115,Gruner 2003
+Neuroptera,Lacewings and Owlflies,0.007,2.739,Gruner 2003
+Dermaptera,Earwigs,0.001,2.5,Placeholder
+Ephemeroptera,Mayflies,0.014,2.49,Sabo 2002
+Insecta,Unidentified,0.027,2.494,
